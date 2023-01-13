@@ -62,7 +62,7 @@ You can also pass "props" into a component <br>
 ## Working With State / Data
 Components can have their own state which can determine how a specific componentn behaves and what data is displayed <br>
 
-Some state may be local to a specific component and some may be *"Global"* or *"app* level state that needs to be shared with multiple components <br>
+Some state may be local to a specific component and some may be **"Global"** or **"app"** level state that needs to be shared with multiple components <br>
 
 Vuex is a state manager for global state in larger applications
 
