@@ -80,12 +80,12 @@ Standard tooling for Vue.js development <br>
 
 <br>
 
-`
-npm install -g @vue/cli <br>
-// OR <br>
-yarn global add @vue/cli <br>
+```
+npm install -g @vue/cli 
+// OR 
+yarn global add @vue/cli
 
 vue create my-project
-// OR <br>
+// OR
 vue ui
-`
+```
