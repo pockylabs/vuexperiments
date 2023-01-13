@@ -55,9 +55,9 @@ export default {
 Components include a template for markup, logic including any state/data/methods as well as the styling for that component <br>
 
 You can also pass "props" into a component <br>
-`(vuejs)
+```(vuejs)
 <Header title="Task Tracker">
-`
+```
 
 ## Working With State / Data
 Components can have their own state which can determine how a specific componentn behaves and what data is displayed <br>
